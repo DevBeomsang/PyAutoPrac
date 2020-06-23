@@ -1,5 +1,5 @@
 # PyAutoPrac
 
-자료구조 까먹음 + 처음써보는 API라 코드망함 ㅎㅎㅎㅎ
+원본코드 https://github.com/netscout/chocopy
 
-에러 예시 module "" has no atribute ""
+연습삼아 재사용성을 높였다. 하지만 너무 야매로 배운지라 그렇게까지 마음에 들지 않는다
